@@ -1,0 +1,16 @@
+{
+    "name": "Space Bunny",
+    "description": "After a long and exhausting battle, Binky emerged victorious. The monster retreated into the depths of space, and the light returned to the galaxy once more. Binky returned to his home planet a hero, celebrated by all who knew him for his bravery and ingenuity. From that day on, Binky became known as the bravest bunny in all of space. And though he continued to explore the cosmos and discover new wonders, he never forgot the importance of standing up to darkness and fighting for the light.",
+    "image": "https://raw.githubusercontent.com/kaiweifan11/Mercedes-Benz-Assignment/main/images/SpaceBunny1.jpg",
+    "external_url": "https://raw.githubusercontent.com/kaiweifan11/Mercedes-Benz-Assignment/main/images/",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Space Bunny"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Space Bunny Collection"
+        }
+    ]
+}
